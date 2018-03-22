@@ -1,2 +1,0 @@
-# DIP
-Digital Prototyping.
